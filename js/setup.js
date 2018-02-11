@@ -113,5 +113,3 @@ mainWizardFireball.addEventListener('click', function () {
 });
 
 
-
-
